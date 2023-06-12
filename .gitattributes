@@ -1,1 +1,2 @@
 html.txt filter=lfs diff=lfs merge=lfs -text
+data/all_programs.txt filter=lfs diff=lfs merge=lfs -text
