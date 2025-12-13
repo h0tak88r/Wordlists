@@ -1,0 +1,70 @@
+# Common Next.js and React Server Components paths
+# These are common endpoints where RSC vulnerabilities might be exposed
+
+# Next.js specific paths
+/_next
+/_next/data
+/_next/static
+/_next/webpack-hmr
+/api
+/api/health
+/api/status
+/api/route
+/api/actions
+
+# React Server Components common paths
+/rsc
+/rsc/prefetch
+/rsc/route
+/actions
+/server
+/server-actions
+/server-components
+
+# Next.js App Router paths
+/app
+/app/api
+/app/route
+/app/layout
+/app/page
+
+# Common API endpoints
+/api/auth
+/api/auth/callback
+/api/auth/session
+/api/users
+/api/proxy
+/api/graphql
+/api/rest
+
+# Next.js middleware and edge functions
+/middleware
+/edge
+/edge-runtime
+
+# Vercel specific paths
+/_vercel
+/_vercel/insights
+/_vercel/build
+
+# Common React paths
+/react
+/react-server
+/react-server-components
+/server-components
+
+# Remix framework paths
+/remix
+/remix/actions
+/remix/loaders
+
+# SvelteKit paths
+/sveltekit
+/sveltekit/actions
+
+# Other framework paths
+/server
+/server/api
+/server/routes
+/ssr
+/ssr/api
